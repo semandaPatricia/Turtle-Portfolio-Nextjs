@@ -6,4 +6,12 @@
 
 @import "tailwindcss/utilities";
 
+*{
+    margin: 0;
+    padding: 0;
 
+}
+body{
+    background: #003744; 
+    color: #f0f0f0;
+}
